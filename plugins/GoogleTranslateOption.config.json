@@ -1,0 +1,8 @@
+{
+    "languages": {
+        "inputContext": "auto",
+        "inputMessage": "auto",
+        "outputContext": "$discord",
+        "outputMessage": "$discord"
+    }
+}

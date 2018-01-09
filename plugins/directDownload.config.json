@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "autoopen": false,
+        "copyimages": false,
+        "dldir": "C:\\Users\\reach02\\Desktop",
+        "imagemodals": true,
+        "itp": false,
+        "overwrite": true,
+        "prompt": false,
+        "showinstead": false
+    }
+}
